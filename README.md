@@ -3,7 +3,7 @@ Kaba Akitoshi escribió la serie de artículos "La ciencia y los bonsáis" para 
 
 En este repositorio están los infográficos que yo, Aprendiz de Bonsái, he hecho de cada uno de los artículos de Kaba Akitoshi tal y como salieron publicados en Bonsái Pasión. Estos infográficos forman parte de unos resúmenes que he publicado en el blog [AprendiendoBonsai.com](https://aprendiendobonsai.com/) bajo la etiqueta [La ciencia y los bonsáis](https://aprendiendobonsai.com/tag/la-ciencia-y-los-bonsais/).
 
-| Número | Resumen en el blog | Infográfico |
+| Número | Resumen en el blog | Infográfico en este repositorio |
 | --- | --- | --- |
 | 1 | Ciclo de crecimiento anual y desarrollo de las raíces | XXXXXX |
 | 2 | El trasplante | XXXXXX |
