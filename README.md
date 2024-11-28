@@ -1,7 +1,7 @@
 # ciencia-y-bonsais
 Kaba Akitoshi escribió la serie de artículos "La ciencia y los bonsáis" para explicar el cultivo de los bonsáis desde un punto de vista científico y analizar el rendimiento de dicho cultivo bajo criterios de eficiencia. Estos artículos se publicaron en Japón y, posteriormente, [Bonsái Pasión](https://www.mistralbonsai.com/tienda/es/45-bonsai-pasion) los tradujo al castellano y los publicó en 10 números: del 54 al 58, y del 60 al 64.
 
-En este repositorio están los infográficos que yo, Aprendiz de Bonsái, he hecho de cada uno de los artículos de Kaba Akitoshi tal y como salieron publicados en Bonsái Pasión. Estos infográficos forman parte de unos resúmenes que he publicado en el blog [AprendiendoBonsai.com](https://aprendiendobonsai.com/) bajo la etiqueta [La ciencia y los bonsáis](https://aprendiendobonsai.com/tag/la-ciencia-y-los-bonsais/).
+En este repositorio están los infográficos que he hecho de cada uno de los artículos de Kaba Akitoshi tal y como salieron publicados en Bonsái Pasión. Estos infográficos forman parte de unos resúmenes que he publicado en el blog [AprendiendoBonsai.com](https://aprendiendobonsai.com/) bajo la etiqueta [La ciencia y los bonsáis](https://aprendiendobonsai.com/tag/la-ciencia-y-los-bonsais/).
 
 | Orden | Resumen en el [blog](https://aprendiendobonsai.com/tag/la-ciencia-y-los-bonsais/) | Infográfico en el [repositorio](https://github.com/AprendizBonsai/ciencia-y-bonsais) | Número(s) de Bonsái Pasión |
 | --- | --- | --- | --- |
