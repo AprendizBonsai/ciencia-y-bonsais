@@ -5,7 +5,7 @@ En este repositorio están los infográficos que he hecho de cada uno de los art
 
 | Orden | Resumen en el [blog](https://aprendiendobonsai.com/tag/la-ciencia-y-los-bonsais/) | Infográfico en el [repositorio](https://github.com/AprendizBonsai/ciencia-y-bonsais) | Número(s) de Bonsái Pasión |
 | --- | --- | --- | --- |
-| 1 | Ciclo de crecimiento anual y desarrollo de las raíces | [Ciencia y Bonsáis ciclo de crecimiento anual - Infografico](https://github.com/AprendizBonsai/ciencia-y-bonsais/blob/main/Ciencia%20y%20Bons%C3%A1is%20ciclo%20de%20crecimiento%20anual%20-%20Infografico.jpg) | [54](https://www.mistralbonsai.com/tienda/es/bonsai-pasion/2979-n-54-bonsai-pasion) |
+| 1 | Ciclo de crecimiento anual y desarrollo de las raíces | [Ciencia y Bonsáis: ciclo de crecimiento anual - Infográfico](https://github.com/AprendizBonsai/ciencia-y-bonsais/blob/main/Ciencia%20y%20Bons%C3%A1is%20ciclo%20de%20crecimiento%20anual%20-%20Infografico.jpg) | [54](https://www.mistralbonsai.com/tienda/es/bonsai-pasion/2979-n-54-bonsai-pasion) |
 | 2 | El trasplante | XXXXXX | [55](https://www.mistralbonsai.com/tienda/es/bonsai-pasion/3439-n-55-bonsai-pasion) |
 | 3 | El frente de los bonsáis | XXXXXX | [56](https://www.mistralbonsai.com/tienda/es/bonsai-pasion/3172-n-56-bonsai-pasion) y [57](https://www.mistralbonsai.com/tienda/es/bonsai-pasion/2980-n-57-bonsai-pasion) |
 | 4 | Cuidados para mantener la salud de los bonsáis | XXXXXX | [58](https://www.mistralbonsai.com/tienda/es/bonsai-pasion/2981-n-58-bonsai-pasion) |
